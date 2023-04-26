@@ -1,44 +1,52 @@
 {
-  "ingresos": [
+  "historial": [
     {
+      "tipo": "i",
       "titulo": "Salario",
-      "cantidad": 2500
+      "cantidad": 2500.99
     },
     {
+      "tipo": "i",
       "titulo": "Intereses bancarios",
       "cantidad": 150
     },
     {
-      "titulo": "Venta de acciones",
-      "cantidad": 800
-    },
-    {
-      "titulo": "Bono de rendimiento",
-      "cantidad": 300
-    },
-    {
-      "titulo": "Regalo de cumpleaños",
-      "cantidad": 100
-    }
-  ],
-  "gastos": [
-    {
+      "tipo": "g",
       "titulo": "Alquiler",
-      "cantidad": 1200
+      "cantidad": 1200.3
     },
     {
+      "tipo": "g",
       "titulo": "Factura de electricidad",
       "cantidad": 80
     },
     {
+      "tipo": "i",
+      "titulo": "Venta de acciones",
+      "cantidad": 800
+    },
+    {
+      "tipo": "g",
       "titulo": "Suscripción a gimnasio",
       "cantidad": 50
     },
     {
-      "titulo": "Compra de alimentos",
-      "cantidad": 400
+      "tipo": "i",
+      "titulo": "Bono de rendimiento",
+      "cantidad": 300
     },
     {
+      "tipo": "g",
+      "titulo": "Compra de alimentos",
+      "cantidad": 400.2
+    },
+    {
+      "tipo": "i",
+      "titulo": "Regalo de cumpleaños",
+      "cantidad": 100
+    },
+    {
+      "tipo": "g",
       "titulo": "Gasolina",
       "cantidad": 100
     }
